@@ -109,6 +109,51 @@
       "features": 35,
       "expected": 35,
       "file": "educacion__centros_universitarios_2026-10-11.geojson"
+    },
+    {
+      "service": "UnidadesAdministrativas",
+      "layer_id": 0,
+      "layer_name": "Asturias",
+      "url": "https://sig.asturias.es/servicios/rest/services/UnidadesAdministrativas/MapServer/0",
+      "features": 1,
+      "expected": 1,
+      "file": "unidadesadministrativas__asturias_2026-10-11.geojson"
+    },
+    {
+      "service": "UnidadesAdministrativas",
+      "layer_id": 1,
+      "layer_name": "Localidades",
+      "url": "https://sig.asturias.es/servicios/rest/services/UnidadesAdministrativas/MapServer/1",
+      "features": 6663,
+      "expected": 6663,
+      "file": "unidadesadministrativas__localidades_2026-10-11.geojson"
+    },
+    {
+      "service": "UnidadesAdministrativas",
+      "layer_id": 2,
+      "layer_name": "Concejos",
+      "url": "https://sig.asturias.es/servicios/rest/services/UnidadesAdministrativas/MapServer/2",
+      "features": 78,
+      "expected": 78,
+      "file": "unidadesadministrativas__concejos_2026-10-11.geojson"
+    },
+    {
+      "service": "UnidadesAdministrativas",
+      "layer_id": 3,
+      "layer_name": "Parroquias",
+      "url": "https://sig.asturias.es/servicios/rest/services/UnidadesAdministrativas/MapServer/3",
+      "features": 859,
+      "expected": 859,
+      "file": "unidadesadministrativas__parroquias_2026-10-11.geojson"
+    },
+    {
+      "service": "Visor/Salud",
+      "layer_id": 10,
+      "layer_name": "Zonificación",
+      "url": "https://sig.asturias.es/servicios/rest/services/Visor/Salud/MapServer/10",
+      "features": 84,
+      "expected": 84,
+      "file": "salud__zonificacion_2026-10-11.geojson"
     }
   ]
 }
