@@ -1,0 +1,114 @@
+{
+  "download_date": "2026-10-11",
+  "base_url": "https://sig.asturias.es/servicios/rest/services",
+  "layers": [
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 0,
+      "layer_name": "Hospitales",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/0",
+      "features": 14,
+      "expected": 14,
+      "file": "edificios_sanitarios__hospitales_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 1,
+      "layer_name": "Centros de Salud",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/1",
+      "features": 69,
+      "expected": 69,
+      "file": "edificios_sanitarios__centros_de_salud_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 2,
+      "layer_name": "Consultorios Locales",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/2",
+      "features": 34,
+      "expected": 34,
+      "file": "edificios_sanitarios__consultorios_locales_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 3,
+      "layer_name": "Consultorios Perifericos",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/3",
+      "features": 111,
+      "expected": 111,
+      "file": "edificios_sanitarios__consultorios_perifericos_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 4,
+      "layer_name": "Centros de Salud Mental",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/4",
+      "features": 24,
+      "expected": 24,
+      "file": "edificios_sanitarios__centros_de_salud_mental_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 5,
+      "layer_name": "Centros de Orientación Familiar",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/5",
+      "features": 5,
+      "expected": 5,
+      "file": "edificios_sanitarios__centros_de_orientacion_familiar_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Edificios_Sanitarios",
+      "layer_id": 6,
+      "layer_name": "Centros de Atención Especializada",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Edificios_Sanitarios/MapServer/6",
+      "features": 7,
+      "expected": 7,
+      "file": "edificios_sanitarios__centros_de_atencion_especializada_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Farmacias_Botiquines",
+      "layer_id": 0,
+      "layer_name": "Botiquines",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Farmacias_Botiquines/MapServer/0",
+      "features": 22,
+      "expected": 22,
+      "file": "farmacias_botiquines__botiquines_2026-10-11.geojson"
+    },
+    {
+      "service": "Sanidad/Farmacias_Botiquines",
+      "layer_id": 1,
+      "layer_name": "Farmacias",
+      "url": "https://sig.asturias.es/servicios/rest/services/Sanidad/Farmacias_Botiquines/MapServer/1",
+      "features": 454,
+      "expected": 454,
+      "file": "farmacias_botiquines__farmacias_2026-10-11.geojson"
+    },
+    {
+      "service": "Visor/Educacion",
+      "layer_id": 0,
+      "layer_name": "Centros Educativos",
+      "url": "https://sig.asturias.es/servicios/rest/services/Visor/Educacion/MapServer/0",
+      "features": 626,
+      "expected": 626,
+      "file": "educacion__centros_educativos_2026-10-11.geojson"
+    },
+    {
+      "service": "Visor/Educacion",
+      "layer_id": 1,
+      "layer_name": "Centros de Educación Ambiental",
+      "url": "https://sig.asturias.es/servicios/rest/services/Visor/Educacion/MapServer/1",
+      "features": 22,
+      "expected": 22,
+      "file": "educacion__centros_de_educacion_ambiental_2026-10-11.geojson"
+    },
+    {
+      "service": "Visor/Educacion",
+      "layer_id": 2,
+      "layer_name": "Centros Universitarios",
+      "url": "https://sig.asturias.es/servicios/rest/services/Visor/Educacion/MapServer/2",
+      "features": 35,
+      "expected": 35,
+      "file": "educacion__centros_universitarios_2026-10-11.geojson"
+    }
+  ]
+}
