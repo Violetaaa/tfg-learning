@@ -6,3 +6,5 @@ folium
 langgraph
 langchain-google-genai
 langchain-ollama
+osmnx
+scipy
