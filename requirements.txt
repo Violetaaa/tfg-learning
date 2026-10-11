@@ -8,3 +8,4 @@ langchain-google-genai
 langchain-ollama
 osmnx
 scipy
+osmium
