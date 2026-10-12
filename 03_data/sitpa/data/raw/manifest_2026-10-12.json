@@ -1,0 +1,51 @@
+{
+  "download_date": "2026-10-12",
+  "base_url": "https://sig.asturias.es/servicios/rest/services",
+  "layers": [
+    {
+      "service": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR",
+      "layer_id": 57,
+      "layer_name": "Planeamiento General vigente",
+      "url": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR/MapServer/57",
+      "features": 80,
+      "expected": 80,
+      "file": "visor_rpgur__planeamiento_general_vigente_2026-10-12.geojson"
+    },
+    {
+      "service": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR",
+      "layer_id": 41,
+      "layer_name": "Clasificación",
+      "url": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR/MapServer/41",
+      "features": 950,
+      "expected": 950,
+      "file": "visor_rpgur__clasificacion_2026-10-12.geojson"
+    },
+    {
+      "service": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR",
+      "layer_id": 39,
+      "layer_name": "Categoría de Suelo Urbanizable",
+      "url": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR/MapServer/39",
+      "features": 561,
+      "expected": 561,
+      "file": "visor_rpgur__categoria_de_suelo_urbanizable_2026-10-12.geojson"
+    },
+    {
+      "service": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR",
+      "layer_id": 37,
+      "layer_name": "Núcleos Rurales",
+      "url": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR/MapServer/37",
+      "features": 5460,
+      "expected": 5460,
+      "file": "visor_rpgur__nucleos_rurales_2026-10-12.geojson"
+    },
+    {
+      "service": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR",
+      "layer_id": 22,
+      "layer_name": "Áreas de prevención de riesgos",
+      "url": "https://sig.asturias.es/server/rest/services/VisorRPGUR/Visor_RPGUR/MapServer/22",
+      "features": 1153,
+      "expected": 1153,
+      "file": "visor_rpgur__areas_de_prevencion_de_riesgos_2026-10-12.geojson"
+    }
+  ]
+}
